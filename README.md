@@ -1,6 +1,5 @@
 # Website Performance Analysis Report
 **Site:** https://www.gripinvest.in/  
-**Analysis Date:** September 24, 2025  
 **Analysis Tools:** Chrome DevTools Core Web Vitals, Google Lighthouse, Strapi API Performance Analysis
 
 ## Performance Analysis Methodology
